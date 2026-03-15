@@ -29,18 +29,8 @@ Atuar como desenvolvedor **back-end Java**, construindo aplicações robustas, s
 ---
 ## 🚀 Projetos
 
-🔹 Sistema Bancário em Java (POO)  
-Projeto desenvolvido para praticar Programação Orientada a Objetos em Java.
-
-Funcionalidades:
-- Criar contas bancárias
-- Depositar dinheiro
-- Sacar dinheiro
-- Transferir entre contas
-- Consultar saldo
-
-🔗 Projeto:  
-https://github.com/VitorBettim/sistema-bancario-java
+ - https://github.com/VitorBettim/sistema-bancario-java
+ - https://github.com/VitorBettim/system-registration-user-java
 
 ---
 
