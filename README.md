@@ -31,7 +31,7 @@ Atuar como desenvolvedor **back-end Java**, construindo aplicações robustas, s
 
  - https://github.com/VitorBettim/sistema-bancario-java
  - https://github.com/VitorBettim/system-registration-user-java
-
+ - https://github.com/VitorBettim/console-calculator-java
 ---
 
 ### 🛠️ Tecnologias e Ferramentas que estou aprendendo
