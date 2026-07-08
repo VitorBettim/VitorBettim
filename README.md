@@ -1,52 +1,50 @@
-### Olá! Seja bem-vindo ao meu perfil 👍
-Vitor Bettim 
----
-## 📊 Estatísticas 
+# Olá, eu sou o Vitor Bettim! 👋
 
-![JsB GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorBettim&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VitorBettim&layout=compact&langs_count=8&theme=onedark)](https://github.com/VitorBettim/github-readme-stats)
+Estudante de Análise e Desenvolvimento de Sistemas (ADS) em transição de carreira, focado no universo de dados com o objetivo de atuar como **Analista de Dados** ou **Aspirante a Engenheiro de Dados**. 
 
----
-### Sobre Mim
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **Universidade Cruzeiro do Sul**  
-💻 Apaixonado por tecnologia e com foco em desenvolvimento **Back-end com Java**  
-🚀 Buscando minha primeira oportunidade na área de desenvolvimento de software
+Busco utilizar a tecnologia e o raciocínio analítico para transformar dados brutos em relatórios claros e insights estratégicos que apoiem a tomada de decisão.
 
 ---
 
-### 📚 Atualmente estudando
-
-- Fundamentos da programação orientada a objetos com Java 
-- Desenvolvimento de APIs REST com Spring Boot 
-- Banco de dados relacionais (MySQL, PostgreSQL, MongoDB) 
-- Versionamento de código com Git e GitHub 
+### 🚀 Sobre Mim
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas.
+- 🎯 Foco total no aprendizado de ferramentas e metodologias analíticas.
+- ⚙️ Desenvolvendo projetos práticos com dados reais para consolidar meus conhecimentos.
 
 ---
 
-### 📌 Objetivo profissional
-Atuar como desenvolvedor **back-end Java**, construindo aplicações robustas, seguras e escaláveis para resolver problemas reais de forma eficiente.
+### 🛠️ Competências Atuais
+
+**Análise & Visualização de Dados**
+- **Power BI & Excel**: Criação de relatórios, tratamento de dados básicos e desenvolvimento de dashboards para visualização de indicadores.
+- **Análise Exploratória de Dados**: Investigação inicial de bases de dados para identificar padrões, anomalias e tendências.
+
+**Linguagens & Fundamentos**
+- **Python**: Utilização da linguagem com foco em lógica de programação e manipulação de scripts simples.
+- **Lógica & Estrutura de Dados**: Sólida base lógica adquirida na graduação em ADS para resolução de problemas estruturados.
 
 ---
-## 🚀 Projetos
 
- - https://github.com/VitorBettim/sistema-bancario-java
- - https://github.com/VitorBettim/system-registration-user-java
- - https://github.com/VitorBettim/console-calculator-java
----
-
-### 🛠️ Tecnologias e Ferramentas que estou aprendendo
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</div>
+### 📚 Próximos Passos de Estudo (Roadmap de Dados)
+*Tecnologias que estou começando a explorar para expandir meu leque técnico:*
+- **Bancos de Dados & SQL**: Aprendizado de consultas (queries), modelagem relacional e manipulação de dados estruturados (MySQL, SQL Server, PostgreSQL).
+- **Ferramentas de Engenharia & IDEs**: Primeiros passos em ferramentas profissionais como o ecossistema JetBrains (DataGrip, PyCharm) e Docker para ambientes isolados.
 
 ---
-### 📫 Conecte-se Comigo 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-bettim-15350a348/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vitor.bettim123@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white/)](https://www.instagram.com/vibettim/)
 
+### 📊 Projetos em Destaque
+
+
+
+---
+
+### 📫 Conecte-se Comigo
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/vitor-bettim-15350a348/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/vibettim/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
